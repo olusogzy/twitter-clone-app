@@ -1,0 +1,22 @@
+h1 {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+
+.side-bar {
+    width: 270px;
+}
+.side-bar .side-bar-icon:hover {
+    background-color: rgb(242, 239, 239);
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.side-bar-button button {
+    background-color: #26a7de;
+    padding: 10px 100px;
+    color: white;
+    font-weight: 600;
+    border-radius: 50px;
+}

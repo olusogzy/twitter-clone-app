@@ -1,0 +1,36 @@
+form {
+    width: 100%;
+}
+
+form input:active {
+    border: 0;
+}
+
+form input::placeholder {
+    font-size: 20px;
+    color: rgb(84, 84, 84);
+}
+
+form button {
+    font-weight: 600;
+    font-size: 13px;
+    padding: 8px 15px;
+    background-color: #26a7de;
+    border-radius: 50px;
+    color: white;
+
+}
+
+form .reply {
+    width: 190px;
+}
+
+form .reply:hover {
+    border-radius: 50px;
+    background-color: #e3ebee;
+}
+form .reply p{
+    font-size: 13px;
+    font-weight: 600;
+    color: #26a7de;
+}

@@ -1,0 +1,30 @@
+.trending {
+    background-color: #f6fbfd;
+    z-index: -1;
+}
+
+.trending h2 {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
+.trending h6 {
+    font-size: 11px;
+    font-weight: light;
+}
+
+.trending h5 {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.trending p {
+    font-size: 12px;
+    font-weight: light;
+}
+
+.trending p span {
+    font-size: 13px;
+    font-weight: light;
+}

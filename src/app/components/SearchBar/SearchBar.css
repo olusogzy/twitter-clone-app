@@ -1,0 +1,14 @@
+.search-bar {
+    background-color: #f6fbfd;
+    border-radius: 50px;
+    width: 300px;
+}
+.search-bar input {
+    background-color: #f6fbfd;
+    border-radius: 0;
+}
+
+form input::placeholder {
+    font-size: 15px;
+    padding-left: 10px;
+}

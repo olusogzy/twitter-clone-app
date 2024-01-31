@@ -1,0 +1,13 @@
+.navbar {
+    position: sticky;
+}
+
+.navbar button {
+    padding: 12px 100px;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.navbar button:hover {
+    background-color: rgb(242, 239, 239);
+}

@@ -1,0 +1,14 @@
+.message-head-div{
+    position: relative;
+}
+.message-head {
+    position: absolute;
+    bottom: 0;
+    left: 70%;
+    z-index: 1;
+    width: 300px;
+    box-shadow: 0px 0px 20px lightgrey;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
